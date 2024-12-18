@@ -5,6 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb69a96-658f-44ae-9c37-190b5cdfc95b" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/pic/CarbonXml.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/DeviconAndroidWordmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/DeviconC.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/DeviconGit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/DeviconJava.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/DeviconJavascript.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/DeviconMatlab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/DeviconPlainAndroidWordmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/DeviconPlainRust.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/LogosCPlusplus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/LogosMysql.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/SkillIconsCss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/SkillIconsDocker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/SkillIconsHtml.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/SkillIconsJquery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/SkillIconsLatexLight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pic/SkillIconsPythonLight.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,20 +33,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2oTDzG1atjHgUZ0oH2gOPv84dxd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/WorkSpace/github space/ergou10086/pic/111.jpg",
+    "last_opened_file_path": "D:/WorkSpace/github space/ergou10086",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,10 +76,16 @@
       <option name="presentableId" value="Default" />
       <updated>1730884932472</updated>
       <workItem from="1730884933587" duration="355000" />
+      <workItem from="1730966121818" duration="17000" />
+      <workItem from="1731661070943" duration="19000" />
+      <workItem from="1734512005652" duration="787000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
