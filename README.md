@@ -4,6 +4,13 @@
 ## 技术栈
 ![imgae.png](pic/DeviconC.png)![imgae.png](pic/LogosCPlusplus.png)![image.png](pic/DeviconJava.png)![image.png](pic/DeviconJavascript.png)![image.png](pic/SkillIconsHtml.png)![image.png](pic/SkillIconsCss.png)![image.png](pic/SkillIconsJquery.png)![image.png](pic/SkillIconsPythonLight.png)![image.png](pic/LogosMysql.png)![image.png](pic/DeviconGit.png)![image.png](pic/SkillIconsDocker.png)![image.png](pic/DeviconPlainRust.png)![image.png](pic/CarbonXml.png)![image.png](pic/DeviconAndroidWordmark.png)![image.png](pic/DeviconMatlab.png)![image.png](pic/SkillIconsLatexLight.png)
 ***
+## <div align="center">GitHub Status</div>
+
+<div align="center" width="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=NaruseMioShirakana&show_icons=true&count_private=true&hide_border=true" align="left" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaruseMioShirakana&hide_border=true&layout=compact&count_private=true" align="right" width="40%" />
+</div>
+***
 在这里基本会存放个人上课或者自己制作的项目，还有退役oi人的挣扎））  
 是一名galgame玩家，喜欢绘画，可以去Facebook和推特上关注我，搜索ErgouTree，基本全平台同名
 ***
