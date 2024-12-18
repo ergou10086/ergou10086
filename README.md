@@ -4,7 +4,7 @@
 ## 技术栈
 ![imgae.png](pic/DeviconC.png)![imgae.png](pic/LogosCPlusplus.png)![image.png](pic/DeviconJava.png)![image.png](pic/DeviconJavascript.png)![image.png](pic/SkillIconsHtml.png)![image.png](pic/SkillIconsCss.png)![image.png](pic/SkillIconsJquery.png)![image.png](pic/SkillIconsPythonLight.png)![image.png](pic/LogosMysql.png)![image.png](pic/DeviconGit.png)![image.png](pic/SkillIconsDocker.png)![image.png](pic/DeviconPlainRust.png)![image.png](pic/CarbonXml.png)![image.png](pic/DeviconAndroidWordmark.png)![image.png](pic/DeviconMatlab.png)![image.png](pic/SkillIconsLatexLight.png)
 ***
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ergou10086)](https://github.com/ergou10086)
 ***
 在这里基本会存放个人上课或者自己制作的项目，还有退役oi人的挣扎））  
 是一名galgame玩家，喜欢绘画，可以去Facebook和推特上关注我，搜索ErgouTree，基本全平台同名
