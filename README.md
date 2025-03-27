@@ -60,7 +60,9 @@
 
 ***
 同时也是一名手绘画师，真得看看我画的祈莉吧
-![image.jpg](pic/111.jpg)  
+<div align="center">
+  <img src="pic/111.jpg" alt="My Artwork" style="border-radius: 10px; max-width: 50%;" />
+</div>
 ***
 <!-- GitHub Stats with animations -->
 <h2 align="center">📊 GitHub Stats 📊</h2>
