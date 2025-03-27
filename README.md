@@ -64,7 +64,6 @@
 ***
 <!-- GitHub Stats with animations -->
 <h2 align="center">📊 GitHub Stats 📊</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ergou10086&layout=compact)](https://github.com/ergou10086)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ergou10086&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergou10086&layout=compact" alt="Main Languages" />
@@ -72,4 +71,9 @@
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ergou10086&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling"/>
 </div>
