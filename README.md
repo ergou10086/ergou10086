@@ -2,7 +2,7 @@
 <div align="center">I'm a college student who loves programming</div>
 
 ***
-*主要语言是Java和安卓，基本全平台同名，唉苦手  
+主要语言是Java和安卓，基本全平台同名，唉苦手  
 ~~谁来教我kotlin，我好想玩galgame~~  
 
 ***
