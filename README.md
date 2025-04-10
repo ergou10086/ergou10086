@@ -1,15 +1,30 @@
-<div align="center"><h2>大家好这里是ErgouTree </h2></div>
+<!-- Header with animated typing effect -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=大家好这里是ErgouTree;Welcome+to+my+GitHub+profile!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=ErgouTree&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
+</div>
+
 <div align="center">I'm a college student who loves programming</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ergou10086&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<!-- About me section -->
 
 ***
-主要语言是Java和安卓，基本全平台同名，唉苦手  
-~~谁来教我kotlin，我好想玩galgame~~  
+*主要语言是Java和安卓，基本全平台同名，唉苦手
+~~谁来教我kotlin，我好想玩galgame~~
 
-***
+在这里基本会存放个人上课或者自己制作的项目，还有退役oi人的挣扎））  
+是一名galgame玩家，喜欢绘画，可以去Facebook和推特上关注我，搜索ErgouTree，基本全平台同名  
 
 <!-- Contact section with animated icons -->
 
-<h2 align="center">📫 Connect With Me 📫</h2>
+<h2 align="center">个人联系相关</h2>
 <div align="center">
   <a href="https://space.bilibili.com/142045656?spm_id_from=333.1007.0.0">
     <img src="https://img.shields.io/badge/Bilibili-树上的二狗-blue?style=for-the-badge&logo=bilibili&logoColor=white&color=00A1D6" alt="Bilibili"/>
@@ -27,58 +42,43 @@
 
 <!-- Skills section with modern badges -->
 
-***
+<h2 align="center">会的东西</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,html,css,mysql,git,docker,dart,rust,spring,kotlin,git,nodejs,linux,go
+,scala,matlab,latex,bash,redis" alt="Skills" /> 
+</div>
 
-### <div align="center"><b>会的东西</b></div>
-<table>
-  <tr>
-      <div align="center">
-        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://bgithub.xyz/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="50px" height="50px"></a>
-        <a href="https://isocpp.org/" title="C++"><img src="https://bgithub.xyz/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="50px" height="50px"></a>
-        <a href="https://www.java.com/" title="Java"><img src="https://bgithub.xyz/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="50px" height="50px"></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://bgithub.xyz/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="50px" height="50px"></a>
-        <a href="https://www.w3.org/TR/html5/" title="HTML5"><img src="https://bgithub.xyz/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="50px" height="50px"></a>
-        <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://bgithub.xyz/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="50px" height="50px"></a>
-        <a href="https://jquery.com/" title="jQuery"><img src="https://bgithub.xyz/get-icon/geticon/raw/master/icons/jquery-icon.svg" alt="jQuery" width="50px" height="50px"></a>
-        <a href="https://www.python.org/" title="Python"><img src="https://bgithub.xyz/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="50px" height="50px"></a>
-        <a href="https://dev.mysql.com/" title="MySQL"><img src="https://bgithub.xyz/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="50px" height="50px"></a>
-        <a href="https://git-scm.com/" title="Git"><img src="https://bgithub.xyz/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="50px" height="50px"></a>
-        <a href="https://www.docker.com/" title="docker"><img src="https://bgithub.xyz/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="50px" height="50px"></a>
-        <a href="https://numpy.org/" title="NumPy"><img src="https://bgithub.xyz/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="50px" height="50px"></a>
-        <a href="https://pandas.pydata.org/" title="pandas"><img src="https://bgithub.xyz/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="50px" height="50px"></a>
-        <a href="https://www.oracle.com/" title="Oracle"><img src="https://bgithub.xyz/get-icon/geticon/raw/master/icons/oracle.svg" alt="Oracle" width="50px" height="50px"></a>
-        <a href="https://dart.dev/" title="Dart"><img src="https://bgithub.xyz/get-icon/geticon/raw/master/icons/dart.svg" alt="Dart" width="50px" height="50px"></a>
-        <a href="https://www.rust-lang.org/" title="Rust"><img src="https://bgithub.xyz/get-icon/geticon/raw/master/icons/rust.svg" alt="Rust" width="50px" height="50px"></a>
-        <a href="https://redis.io/" title="Redis"><img src="https://bgithub.xyz/get-icon/geticon/raw/master/icons/redis.svg" alt="Redis" width="50px" height="50px"></a>
-    </div>
-  </tr>
-</table>
 
-***
-在这里基本会存放个人上课或者自己制作的项目，还有退役oi人的挣扎））  
-是一名galgame玩家，喜欢绘画，可以去Facebook和推特上关注我，搜索ErgouTree，基本全平台同名  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergou10086&theme=radical&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
+</div>
+
+<!-- GitHub Stats with animations -->
+
+<h2 align="center"> GitHub Stats </h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ergou10086&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ergou10086&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ergou10086&theme=radical&no-frame=true&column=7" alt="GitHub Trophy" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ergou10086&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
+
+<!-- Art showcase section -->
 
 ***
 同时也是一名手绘画师，真得看看我画的祈莉吧
 <div align="center">
-  <img src="pic/111.jpg" alt="My Artwork" style="border-radius: 10px; max-width: 50%;" />
-</div>
-***
-<!-- GitHub Stats with animations -->
-<h2 align="center">📊 GitHub Stats 📊</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ergou10086&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ergou10086&layout=compact" alt="Main Languages" />
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ergou10086&theme=radical&no-frame=true&column=7" alt="GitHub Trophy" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ergou10086&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ergou10086&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="pic/111.jpg" alt="My Artwork" style="border-radius: 10px; max-width: 80%;" />
 </div>
 
 <!-- Footer -->
