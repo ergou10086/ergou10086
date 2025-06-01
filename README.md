@@ -44,8 +44,7 @@
 
 <h2 align="center">会的东西</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,html,css,mysql,git,docker,dart,rust,spring,kotlin,git,nodejs,linux,go
-,scala,matlab,latex,bash,redis" alt="Skills" /> 
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,html,css,mysql,git,docker,dart,rust,spring,kotlin,nodejs,linux,go,scala,matlab,latex,bash,redis,react,vue,elasticsearch,androidstudio,ae,vite,ts,threejs,selenium,r,nginx,matlab,md,lua,less,jquery,ai,htmx,hibernate,gradle,maven,flutter,cassandra alt="技能图标" /> 
 </div>
 
 
