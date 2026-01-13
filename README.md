@@ -16,10 +16,10 @@
 <!-- About me section -->
 
 ***
-*主要语言是Java和Python，基本全平台同名，是一个很苦手的苦手
-~~谁来教我kotlin~~
-~~我还是去打galgame吧~~
-主要倾向是 Java 后端，当然项目设计也会做一些，目标是发展到全栈，有偏运维一些的想法。
+*主要语言是Java和Python，基本全平台同名，是一个很苦手的苦手  
+~~谁来教我kotlin~~  
+~~我还是去打galgame吧~~  
+主要倾向是 Java 后端，当然项目设计也会做一些，目标是发展到全栈，有偏运维一些的想法。  
 是一名galgame玩家，喜欢绘画，可以去Facebook，推特和bilibili（树上的二狗）上关注我，搜索ErgouTree，基本全平台同名  
 
 <!-- Contact section with animated icons -->
