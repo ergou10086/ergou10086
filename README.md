@@ -106,14 +106,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ergou10086&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ergou10086&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ergou10086&theme=radical&no-frame=true&column=7" alt="GitHub Trophy" />
-</div>
-
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ergou10086&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
